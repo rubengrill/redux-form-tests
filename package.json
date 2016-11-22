@@ -1,0 +1,23 @@
+{
+  "name": "redux-form-tests",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-form": "^6.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
